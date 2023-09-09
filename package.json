@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Oling emmanuel benjamin",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olingbenjamin/ema.git"
+  },
+  "bugs": {
+    "url": "https://github.com/olingbenjamin/ema/issues"
+  },
+  "homepage": "https://github.com/olingbenjamin/ema#readme"
 }
