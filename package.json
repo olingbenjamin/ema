@@ -1,0 +1,11 @@
+{
+  "name": "ema",
+  "version": "1.0.0",
+  "description": "package that checks if ema is true",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oling emmanuel benjamin",
+  "license": "ISC"
+}
